@@ -359,7 +359,7 @@ p {
 }
 .skillitem .skillitemleft .progressbox:nth-child(1) .progress-bar span {
   display: block;
-  width: 95%;
+  width: 85%;
   background: #bc8cf2;
   border-radius: 5px;
   height: 100%;
@@ -374,7 +374,7 @@ p {
 
 .skillitem .skillitemleft .progressbox:nth-child(3) .progress-bar span {
   display: block;
-  width: 90%;
+  width: 80%;
   background: #bc8cf2;
   border-radius: 5px;
   height: 100%;
@@ -392,14 +392,14 @@ p {
 }
 .skillitem .skillitemright .progressbox:nth-child(1) .progress-bar span {
   display: block;
-  width: 95%;
+  width: 85%;
   background: #bc8cf2;
   border-radius: 5px;
   height: 100%;
 }
 .skillitem .skillitemright .progressbox:nth-child(2) .progress-bar span {
   display: block;
-  width: 75%;
+  width: 70%;
   background: #bc8cf2;
   border-radius: 5px;
   height: 100%;
@@ -407,7 +407,7 @@ p {
 
 .skillitem .skillitemright .progressbox:nth-child(3) .progress-bar span {
   display: block;
-  width: 90%;
+  width: 70%;
   background: #bc8cf2;
   border-radius: 5px;
   height: 100%;
