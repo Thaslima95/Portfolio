@@ -264,6 +264,7 @@ p {
   display: flex;
   flex-direction: column;
   gap: 50px;
+  padding-top: 30px;
 }
 .aboutcontainer {
   display: flex;
@@ -370,6 +371,7 @@ p {
   /* border: 3px solid white; */
   margin-left: 20px;
   margin-right: 20px;
+  padding-top: 34px;
 }
 .heading {
   display: flex;
