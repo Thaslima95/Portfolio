@@ -29,9 +29,10 @@ header.className="header";
 //           alert("mail sent successfully")
 //         });
 //     }
-
+document.getElementById('iconbar').addEventListener('click',myClose)
 function myClose()
 {
-  let display=document.getElementById('navbar')
-  display.style.display="none"
+  let header=document.getElementById('header')
+header.className="navdisplay";
 }
+
